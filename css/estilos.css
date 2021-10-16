@@ -1,0 +1,40 @@
+body{ 
+    background-image: url(../Mystical.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: fixed ;
+    background-repeat: no-repeat;
+    height: 110vh;
+}
+.caja-border{
+    border-radius: 25px;
+    color: rgb(243, 243, 243);
+    margin: 40px auto;
+    border: 2px solid rgb(104, 99, 104);
+    text-align: center;
+    width:350px;
+    background:rgba(19, 2, 114, 0.966);
+}
+
+.btn{ 
+    width: 180px;
+    height: 60px;
+    background: rgba(182, 117, 21, 0.959);
+    border: 3px solid rgba(78, 76, 76, 0.61); ;  
+    color: #fff;
+ } 
+ .caja1{
+    border-radius: 20px;
+    border: 2px solid rgb(46, 4, 59);
+    margin: 0 auto ;
+    color: #fff;
+    width: 450px;
+    padding: 35px;
+    text-align: justify;
+    background:rgba(59, 7, 57, 0.795);
+} 
+.btn:hover{
+     background: rgba(57, 9, 145, 0.979);
+     color: white;
+     border: 3px solid #fff;
+ }
